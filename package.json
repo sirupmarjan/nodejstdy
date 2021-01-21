@@ -1,0 +1,18 @@
+{
+  "name": "markicob",
+  "version": "1.0.0",
+  "description": "mari kita coba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo \"helo world\""
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "alden",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
